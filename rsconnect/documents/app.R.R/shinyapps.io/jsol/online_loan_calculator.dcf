@@ -1,0 +1,13 @@
+name: online_loan_calculator
+title: online_loan_calculator
+username:
+account: jsol
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2056442
+bundleId: 2968334
+url: https://jsol.shinyapps.io/online_loan_calculator/
+when: 1586007070.48113
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_old.R.R
